@@ -1,5 +1,7 @@
 # Project 1: Intelligent Research Topic Analysis & Agentic AI Research Assistant
 
+🚀 **Live App:** [https://harsh-gupta-07-genai-mid-sem-app-ymrqvk.streamlit.app/](https://harsh-gupta-07-genai-mid-sem-app-ymrqvk.streamlit.app/)
+
 ## From Traditional NLP to Autonomous Agents
 
 ### Project Overview
